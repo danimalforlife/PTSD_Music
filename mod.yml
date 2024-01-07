@@ -1,0 +1,15 @@
+title: PTSD Music
+originalAuthor: Danimalforlife
+description: roro...
+
+assets:
+- name: bgm/music112.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
+- name: bgm/music116.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bgm/PTSD.scd
